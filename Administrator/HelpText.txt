@@ -1,0 +1,18 @@
+1.Intall xampp software to run our project in local environment.
+
+2.Open xampp and start mysql server,tamcat server and two other servers.
+
+3.Open any browser and put the url http://localhost/bhagirath/newProject/ ...
+  in address bar and press enter.
+  
+4.This is our index page here any student can register himself and after the approval of 
+  request he can login here.
+  
+5.Hod of any department can login here if he added in this panel by the admin of this 
+  query panel.
+  
+6.To open admin login panel put url http://localhost/bhagirath/newProject/Administrator/ ...
+  into browser's address bar and hit enter.
+  
+7.After login into admin panel ,admin can add , edit and delete any department from 
+  Database,and admin also can add , edit and delete any HOD's record from database. 
